@@ -44,7 +44,7 @@ Axios – Cliente HTTP para hacer peticiones al backend
 ## Instalación y ejecución
 
 1. Clonar el repositorio
-  git clone https://github.com/tu-usuario/apv-administrador-pacientes.git
+  git clone https://github.com/Hugo9591/Veterinaria.git
 2. Instalar Dependencias
    - Backend
      npm install
